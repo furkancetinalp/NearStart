@@ -1,6 +1,5 @@
 # `near-sdk-as` Starter Kit
 
-This is a good project to use as a starting point for your AssemblyScript project.
 # PRACTICE 1
 ## TASK 1
 ![Task1](https://user-images.githubusercontent.com/99509540/162564811-33acf2db-8394-4736-9b2b-223f53654603.png)
