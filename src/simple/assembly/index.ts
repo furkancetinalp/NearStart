@@ -15,9 +15,18 @@ export function helloWorld(name: string): string {
 */
 
 //Task 3
+/*
 export function helloWorld(names: Array<string>): string {
   return names.map<string>(name =>'hello ' + name).join(' ') 
 }
+*/
+//Task 4
+export function helloWorld():string{
+  const predecessor = Context.predecessor
+  return 'hello ' + predecessor
+}
+
+
 
 // read the given key from account (contract) storage
 export function read(key: string): string {
