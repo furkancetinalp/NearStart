@@ -2,6 +2,22 @@
 
 This is a good project to use as a starting point for your AssemblyScript project.
 
+##TASK 1
+![Task1](https://user-images.githubusercontent.com/99509540/162564811-33acf2db-8394-4736-9b2b-223f53654603.png)
+
+##TASK 2
+![Task2](https://user-images.githubusercontent.com/99509540/162564819-82645ac3-4ab9-4e0e-8e5c-bfdbce686159.png)
+
+##TASK 3
+![Task3](https://user-images.githubusercontent.com/99509540/162564825-d2c00a93-08e8-410c-83bf-50fe8e5dafea.png)
+
+
+
+
+
+
+
+
 ## Samples
 
 This repository includes a complete project structure for AssemblyScript contracts targeting the NEAR platform.
